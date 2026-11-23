@@ -1,0 +1,451 @@
+text,label,figurative,noisy,likely_mislabeled,tags,pred_tfidf_logreg,ok_tfidf_logreg,pred_stl_mlp,ok_stl_mlp,pred_mtl_mlp,ok_mtl_mlp
+woke up with a anxiety since yesterday !!,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+my wallet had a 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+@user my roommate was diagnosed with heart attack on and off for a month http://url,LITERAL_PHM,0,0,False,"['third_person', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+@user i caught this group project flu and there is no cure lol fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'long(>12w)']",2,True,2,True,2,True
+honestly i caught my landlord stroke and there is no cure lol 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+cancer costs india billions every year,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+"My mom was diagnsoed with anxiety again today, feels like a dark cloud on me #mondays",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'third_person', 'long(>12w)']",0,True,0,True,0,True
+"update: had to leave work early, asthma kicked in - like a truck hit me 🙃",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+my dad has had,LITERAL_PHM,0,0,False,"['third_person', 'short(<=6w)']",0,True,0,True,0,True
+reading my team's defense,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+"ugh this spreadsheet was cancelled for me, cough again today, it's like a truck hit me http://url",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+Ok so *cough* tax season *cough* overrated,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+ok so depression costs rural areas billions year fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+@user i've had a heart attack since yesterday !!,LITERAL_PHM,0,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+Lol my allergy to tax season smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+@user i swear i get a cancer every time i open the new update 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'long(>12w)']",2,True,2,True,2,True
+honestly researchers found a new treatment for headache 😩,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"third cough episode for three days now, calling my gp #mondays",FIGURATIVE,1,1,True,['medium'],0,False,0,False,0,False
+Update: climbing this spreadsheet staisr gave 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so my meds aren't working 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+Lol my anxiety is so bad for three days now,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+@user my anixety meds aren't working 😩,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",0,True,0,True,0,True
+"I've had a anxiety since last night, it's like my 😩",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+"Update: had to leave work early, cough kicked in - like i'm on fire",LITERAL_PHM,1,0,False,['long(>12w)'],0,True,0,True,0,True
+"@user the group chat was cancleled for me, migraine since monday fml",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",0,True,0,True,0,True
+"ugh my anxiety is so bad since yesterday, feels like a jackhammer in my skull 🙃",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+Ok so woke up with a !!,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+lol this group project is giving me anxiety lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+update: my migraine test came fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+The wifi must 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+doctor confirmed i have attack 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'short(<=6w)']",0,True,0,True,0,True
+@user my landlord me in a,FIGURATIVE,1,0,False,"['mention_or_url', 'short(<=6w)']",2,True,2,True,2,True
+fever costs the blilions every year,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+"honestly htird episode since yesterday, calling my gp",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+how is fevre diagnosed? for a school project http://url,LITERAL_OTHER,0,0,False,"['question', 'mention_or_url', 'medium']",1,True,1,True,1,True
+Lol pure stroke of luck with this playlist,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+My inbox = insatnt migraine http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'short(<=6w)']",2,True,2,True,2,True
+update: my doctor said it's definitely not flu,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+@user is contagious? 🙃,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'mention_or_url', 'short(<=6w)']",1,True,1,True,1,True
+The new update is pure cancer http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+update: free depression screening at the community center saturday smh,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+I'm having a 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+"lol my teams' defense was cancelled for me, stroke all",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+the allergy ward at hospital is expanding smh,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+ok so i have a serious allergy to the new update !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"I used to think asthma was rare, it isn't fml",LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+@user my sister was diagnosed with depression for three days now !!,LITERAL_PHM,0,0,False,"['third_person', 'mention_or_url', 'medium']",0,True,0,True,0,True
+I caught that episode fever and there is no cure lol 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so my doctor said it's definitely not smh,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+Ugh anyone eles get after the vaccine? had it since monday !!,LITERAL_PHM,0,0,False,"['question', 'medium']",0,True,0,True,0,True
+this exam is a #mondays,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+the depression ward at the hospital is expanding #mondays,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+honestly what's the difference between fever and,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+anxiety costs india billions every year,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+i have a serious allergy to monday traffic http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+Lol can't sleep because of my depression,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+honestly asthma are rising in europe 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+ugh the ref is giving me anxiety lol #mondays,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so got a migraine during my landlord and had to go home,LITERAL_PHM,0,0,False,['long(>12w)'],0,True,0,True,0,True
+I swear i get a allergy every time i open that last episode fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+"my flu test came back negative, phew 🙃",LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+anyone else get stroke the vaccine? had it since last night,LITERAL_PHM,0,0,False,"['question', 'medium']",0,True,0,True,0,True
+Lol nearly had a asthma last year and spent a week in,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+Lol 5 early warning signs of fever you shouldn't ignore fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"Third cancer episode again today, calling my gp #mondays",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+Missed this exam because of my headache fml,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+update: 5 early warning signs of mgiraine you shouldn't ignore 😩,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+Ok so my inbox = instant,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+"Ok so my anxiety meds aren't working,",LITERAL_PHM,1,0,False,['medium'],0,True,0,True,0,True
+ok so i caught my landlord fever and three is no cure lol #mondays,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+ok so that plot twist fever spreading liek flu 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+Stuck in bed with cancer since monday smh,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+update: monday traffic took my,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+@user researchers found new treatment for cnacer #mondays,LITERAL_OTHER,0,0,False,"['mention_or_url', 'medium']",1,True,1,True,1,True
+"had to leave work early, #mondays",LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+update: asthma rates are 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+honestly my team's defenes is gviing me anxiety lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so my team's defense hype is catching like the flu #mondays,LITERAL_PHM,1,1,True,['medium'],2,False,2,False,2,False
+lol how is asthma diagnosed? asking for a school rpoject,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'medium']",1,True,1,True,1,True
+Costs europe billions every year http://url,LITERAL_OTHER,0,0,False,"['mention_or_url', 'short(<=6w)']",1,True,1,True,1,True
+Honestly new study poor !!,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+ugh got a heart attack during my landlord 😩,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+anyoen else get stroke after the vaccine? had it again today 😩,LITERAL_PHM,0,0,False,"['question', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+ok so the new update has me in a #mondays,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+ugh missed this exam because of my anxiety,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+my cough is so bad since last night smh,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+finally seeing a doctor baout my migraine !!,LITERAL_OTHER,0,1,True,['medium'],0,False,0,False,0,False
+the anxiety watching fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+ok so tax season was #mondays,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+the wifi is going to give me a heart attack !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"ok so this exam was cancelled for me, fever all week, feels like a truck hit me !!",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'long(>12w)']",0,True,0,True,0,True
+update: my doctor said it's definitely not,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+honestly black friday has me in a deep depression lmao,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so anyone else get allregy fater the vaccine? had it since yesterday !!,LITERAL_PHM,0,0,False,"['question', 'long(>12w)']",0,True,0,True,0,True
+my doctor said it's definitely not cough 😂,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+honestly new study links #mondays,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+Honestly 5 early signs of anxiety you shouldn't ignore,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+"the stock market was cancelled for me, anxiety for three days now 😩",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+update: cough rates are,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+Nearly had a fever last year and spent a week in hospital fml,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+"my stroke started right the middle of monday traffic, meds are not helping 🙃",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+ugh how is fever diagnosed? asking for a school project 😩,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'medium']",1,True,1,True,1,True
+lol i caught this meeting heart attack and there is no cure lol !!,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+what's the difference between fever and a normal headahce?,LITERAL_OTHER,0,0,False,"['question', 'medium']",1,True,1,True,1,True
+Used to think http://url,LITERAL_OTHER,0,0,False,"['mention_or_url', 'short(<=6w)']",1,True,1,True,1,True
+Ok so post-this spreadsheet depression hard,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+ok so i swear i get a anxiety every time i open the stock marekt 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+"ugh third cough episode since last night, calling my gp",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+"@user i used to think asthma was rare, it isn't 😂",LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",1,True,1,True,1,True
+"my cancer meds aren't working, it's like a dark cloud on me 😂",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+honestly got a allergy during my team's defense and had to go home,LITERAL_PHM,0,0,False,['long(>12w)'],0,True,0,True,0,True
+dealing with this group project is a total hedaache,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"ugh i used to think cough was rare, it 🙃",LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+Ugh my husband was diagnosed with anxiety morning 😩,LITERAL_PHM,0,0,False,"['third_person', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+update: my son was diagnosed with flu for three days now smh,LITERAL_PHM,0,0,False,"['third_person', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+monday traffic must be having a tsroke,LITERAL_PHM,1,1,True,['medium'],2,False,2,False,2,False
+Pure stroke of luck with team's defense 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+Doctor confirmed i hvae fever - like a truck hit me !!,LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'medium']",0,True,0,True,0,True
+my anxiety meds aren't wroking !!,LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+having a full strkoe over tax season,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+woke up with a on and off for a month 😂,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+Missed my team's defense because of my smh,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+nearly had a heart attack last year and spent a week in it's like my head is in a vise 😩,LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'near_miss_phrase', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+"ok so third anxiety episode on and off for a month, calling my gp #mondays",LITERAL_PHM,0,0,False,['long(>12w)'],0,True,0,True,0,True
+"ugh the update was cancelled for me, stroke this omrning - like http://url",LITERAL_PHM,1,0,False,"['mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+cough rates are rising 😂,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+The ref was a stroke of genius,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"@user nearly had a stroke last eyar and spent a week in hosiptal, feels like a jackhammer my ksull",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'near_miss_phrase', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+post-this playlist depression hitting hard 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+ok so thsi spreadsheet was a stroke of genius 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+Got a depression during the ref and had to go home !!,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+Ok so post-the chat depression htiting hard smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ugh i acught monday traffic flu and there,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+the heart attack ward at the hospital is expanding #mondays,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+Lol the wifi fever is real this week fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+donated to asthma reseacrh today,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+asthma costs rural areas,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+"ugh had to leave work early, allergy kicked in 😩",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+i'm having a full flu over that plot twist,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"i used to think asthma was rare, it isn't",LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+update: doctor confirmed i migraine,LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+"ugh my team's defense was caneclled for me, migraine for three days now http://url",LITERAL_PHM,0,0,False,"['mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+the anxiety of watching the new update live #mondays,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+Plot twist was a stroke of genius fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+update: 5 early warinng signs of anxiety you shouldn't ignore http://url,LITERAL_OTHER,0,0,False,"['mention_or_url', 'medium']",1,True,1,True,1,True
+ok so depression are,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+my wallet had a 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+"My has had depression for three days now, worired http://url",LITERAL_PHM,0,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+update: this spreadsheet is a cancer on this app smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+the ref hype is catching like the flu,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"Ugh my cough test came back negative, phew smh",LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+honestly my allergy to the group chat !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+update: my mom was diagonsed with cancer since last night !!,LITERAL_PHM,0,0,False,"['third_person', 'medium']",0,True,0,True,0,True
+ugh finally seeing a doctor my headache 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+ok so nearly had a heart attack when i saw the group chat 😩,FIGURATIVE,1,0,False,"['near_miss_phrase', 'slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+i swear i get a allergy every time i open the season finale #mondays,FIGURATIVE,1,0,False,['long(>12w)'],2,True,2,True,2,True
+update: post-this spreadsheet depression hitting hard fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+honestly costs texas billions every year #mondays,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+"ok so anyone else get flu after the vaccine? had it this morning, its' like an elephant sitting on my chest smh",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'question', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+@user season finale depression hitting hard 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",2,True,2,True,2,True
+reading my team's defense gave me a migraine fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ugh post-the group chat,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+my team's defense took my breath away ilke an asthma attack 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+honestly what's the difference between asthma and a normal ehadache? smh,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'medium']",1,True,1,True,1,True
+update: got a depression during my and had to go home http://url,LITERAL_PHM,0,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+researchers found a new treatment for stroke fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"Lol i used to think cough was rare, it isn't !!",LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"Honestly i've had a allergy since last night, it's http://url",LITERAL_PHM,1,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+i've had a allergy on fml,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'short(<=6w)']",0,True,0,True,0,True
+update: is contagious? 😩,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+Update: this is #mondays,LITERAL_OTHER,0,0,False,['short(<=6w)'],2,False,2,False,2,False
+@user omnday traffic hype is catching like the flu 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",2,True,2,True,2,True
+"Update: missed my landlord because of my cough, it's like i'm on fire 😂",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+@user i'm running a 5k for flu awareness during that plot twist !!,LITERAL_OTHER,0,0,False,"['mention_or_url', 'long(>12w)']",1,True,1,True,1,True
+Lol donated to migarine research today fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"ok so my heart attack started right in the middle of the new update, meds are not helping #mondays",LITERAL_PHM,0,0,False,['long(>12w)'],0,True,0,True,0,True
+Ugh doctor confirmed i have asthma 🙃,LITERAL_PHM,1,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+"my cancer started right in the middle of my landlord, meds are not helping fml",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+"update: my started right in the middle of black friday, meds are not helping, it's like my head is in a vise",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'long(>12w)']",0,True,0,True,0,True
+Honestly anyone else get cancer fater the vaccine? had it since monday - like i'm on fire 🙃,LITERAL_PHM,1,0,False,"['question', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+ok so the wifi was a of genius 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"Ok so my son has had cancer again today, worried fml",LITERAL_PHM,0,0,False,"['third_person', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+update: black friday fever is rela this week,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"update: that last episode is giving me a depression, seriously, been to urgent care twice !!",LITERAL_PHM,0,0,False,['long(>12w)'],0,True,0,True,0,True
+Ok so got a flu my team's defense and had to go home !!,LITERAL_PHM,0,0,False,['long(>12w)'],0,True,0,True,0,True
+i swear i get a stroke every smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+stroke is so bad since monday smh,LITERAL_OTHER,0,1,True,"['slang_or_emoji', 'medium']",0,False,0,False,0,False
+lol doctor confirmed i have anxiety 😩,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+Lol i've had a fever for three days now,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+got a stroke during the stock market and had to go home 😩,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+honestly month is stroke awareness month,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+Update: the wifi feevr #mondays,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+"my allergy meds aren't working, feels like breathing through a straw 🙃",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+@user this omnth is cough awareness month,LITERAL_OTHER,0,0,False,"['mention_or_url', 'medium']",1,True,1,True,1,True
+"black friday was cancelled for me, axniety for three days now - like a jackhammer in my skull",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'long(>12w)']",0,True,0,True,0,True
+Can't sleep because of my migraine,LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+i have a serious to my inbox,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+i've had a allergy week,LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+Ugh i caught the finale fever and there is no cure lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"Lol missed my inbox because of my allergy, feels like breathing through a straw http://url",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+"update: had to leave work early, anxiety kicked in fml",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+"stuck in bed with allergy since yesterday, feels like my head is in a vise 😂",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+update: 5 early warning signs of anxiety you shouldn't ignore #mondays,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+"my dad has had anxiety for three dasy now, worried",LITERAL_PHM,0,0,False,"['third_person', 'medium']",0,True,0,True,0,True
+"my team's defense was for me, migraine this morning !!",FIGURATIVE,1,1,False,['medium'],0,False,0,False,0,False
+ok so the anxiety of watching monday traffic live !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"had to leave work early, stroke in !!",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+@user sleep because smh,FIGURATIVE,1,1,False,"['slang_or_emoji', 'mention_or_url', 'short(<=6w)']",0,False,0,False,0,False
+my team's defense is a cancer on this app 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+update: new study links poor sleep to cancer 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"my husband has had cancre again today, 🙃",LITERAL_PHM,0,0,False,"['third_person', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+ugh my wallet had a depression after this exam http://url,LITERAL_OTHER,1,1,True,"['mention_or_url', 'medium']",2,False,2,False,2,False
+@user the group chat is *cough* not that great 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",2,True,2,True,2,True
+Stuck in bed with cough on and off for a month,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+donated to stroke research today 😂,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+"ugh my migraine meds aren't working, it's like a jackhammer in my skull !!",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'long(>12w)']",0,True,0,True,0,True
+"my cancer test back negative, phew",LITERAL_PHM,0,1,True,['short(<=6w)'],1,False,1,False,1,False
+@user my headache mdes aren't working,LITERAL_PHM,0,0,False,"['mention_or_url', 'short(<=6w)']",0,True,0,True,0,True
+Honestly i'm having a full fever over the season finale smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so new study ilnks poor sleep to stroke fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+lol the group chta fever spreading like the flu,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+i'm writing an essay on depression for class #mondays,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+ugh my depression is so bad this morning http://url,LITERAL_PHM,0,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+how is stroke diagnosed? asking for a school project 😂,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'medium']",1,True,1,True,1,True
+update: this playilst is a headache and a half 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"update: thsi meeting is giving me a cough, serioulsy,",LITERAL_PHM,0,0,False,['medium'],2,False,2,False,2,False
+Finally seenig a doctor about my stroke http://url,LITERAL_PHM,0,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+Ok so this meeting giving me anxiety lol smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"this exam giving me a stroke, seriously, been to urgent care twice",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+Ok so my team's defense is a cancer on this app 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+lol finally seeing a doctor about my anxiety #mondays,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+lol this is 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+i've a allergy this morning #mondays,LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+ugh how is cough diagnosed? asking !!,LITERAL_OTHER,0,0,False,"['question', 'medium']",1,True,1,True,1,True
+This playlist = instant migraine,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+"My stroke started right in the middle my landlord, meds are not helping smh",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+lol depression rates are rising in the uk #mondays,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+honestly the finale is,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+the anxiety of watching my inbox live,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+@user this meeting was a 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'short(<=6w)']",2,True,2,True,2,True
+Lol how flu diagnosed? asking !!,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+Honestly the stock market fever fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+"Honestly my flu meds aren't working, feels",LITERAL_PHM,1,0,False,['medium'],0,True,0,True,0,True
+"had to leave work early, flu kicked in",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+Update: the season finale is pure 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+nearly had a flu last year and spent a week in hospital http://url,LITERAL_PHM,0,0,False,"['mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+new tsudy links poor sleep to fveer !!,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+my wallet a headache after this meeting 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+Honestly how is asthma diagnosed? asking for a school project,LITERAL_OTHER,0,0,False,"['question', 'medium']",1,True,1,True,1,True
+"my cough test came back negative, phew http://url",LITERAL_OTHER,0,0,False,"['mention_or_url', 'medium']",1,True,1,True,1,True
+nearly had a ehart attack when i saw my team's defense !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"Ugh nearly had a flu last year and spent a week in hospital, 🙃",LITERAL_PHM,1,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+post-the stock market fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+what's the difference allregy,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+my doctor said smh,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+honestly reading that last episode gave me a migraine fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+update: the anxiety of watching this group project live,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+update: this meeting has me in a deep depression lmao 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+@user this group project fever spreading like the flu 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",2,True,2,True,2,True
+@user i'm writing an esasy on allergy for class 😩,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",1,True,1,True,1,True
+@user my doctor said it's deifnitely not stroke fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",1,True,1,True,1,True
+i caught that plot twist allergy and there is no cure lol !!,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+ok so doctor confirmed i have fever http://url,LITERAL_PHM,0,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+my doctor said,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+Anyone else get allergy after the vaccine? had it all week http://url,LITERAL_PHM,0,0,False,"['question', 'mention_or_url', 'medium']",0,True,0,True,0,True
+@user the asthma ward at the hospital expanding fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",1,True,1,True,1,True
+update: anyone else get heart attack after the had it since last night,LITERAL_OTHER,0,1,True,['long(>12w)'],0,False,0,False,0,False
+what's the difference betewen allergy and a normal headache? #mondays,LITERAL_OTHER,0,0,False,"['question', 'medium']",1,True,1,True,1,True
+Stuck in bed with migraine again today 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+Lol the ref took my breath away like an asthma attack !!,FIGURATIVE,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'medium']",2,True,2,True,2,True
+5 early warning of 😂,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+@user missed my inbox because of my heart attack - like i'm on fire smh,LITERAL_PHM,1,0,False,"['slang_or_emoji', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+@user i'm a full heart attack,FIGURATIVE,1,0,False,"['mention_or_url', 'short(<=6w)']",2,True,2,True,2,True
+lol pure stroke of luck !!,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+my flu test came back,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+ok so i swear i get a cough every time i open the season finale,FIGURATIVE,1,0,False,['long(>12w)'],2,True,2,True,2,True
+"my landlodr was cancelled for me, coguh since !!",LITERAL_PHM,1,0,False,['medium'],0,True,0,True,0,True
+ok so anyone else get asthma after the vaccine? had it this morning fml,LITERAL_PHM,0,0,False,"['question', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+@user i'm having a full allergy over monday traffic !!,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+my doctor said it's definitely not cancer fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+@user 5 early warning signs of stroke you shouldn't ignore,LITERAL_OTHER,0,0,False,"['mention_or_url', 'medium']",1,True,1,True,1,True
+ok so the new update has me in a deep depression lmao fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+honestly anyone else get cancer after the vaccine? had it since yesterday http://url,LITERAL_PHM,0,0,False,"['question', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+lol got a cough during that last episode and 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+seeing a doctor 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'short(<=6w)']",0,True,0,True,0,True
+@user woke up with cough !!,LITERAL_PHM,0,0,False,"['mention_or_url', 'short(<=6w)']",0,True,0,True,0,True
+Lol 5 early warinng signs of allergy you shouldn't ignore,FIGURATIVE,1,1,False,"['slang_or_emoji', 'medium']",1,False,1,False,1,False
+Update: the group chat 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+Lol this month is anxiety awareness month 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+@user i swear i get a allergy every time i open this exam #mondays,FIGURATIVE,1,0,False,"['mention_or_url', 'long(>12w)']",2,True,2,True,2,True
+"honestly anyone else get depression after the vaccine? had it this morning, it's like breathing through a straw #mondays",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'question', 'long(>12w)']",0,True,0,True,0,True
+@user missed this meeting because of my anxiety 😂,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",0,True,0,True,0,True
+"Update: third depression episode monday, fml",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'short(<=6w)']",0,True,0,True,0,True
+my headache test fml,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+ok so i've had a allergy since last night 😩,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+ugh i'm running a 5k for awareness during this group project #mondays,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+"the wifi was cancelled for me, asthma since monday",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+honestly my allergy to the finale is acting up again lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+i've had a stroke this morning,LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+@user i'm having a full cancer over black friday,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+finally seeing a doctor about my stroke http://url,LITERAL_PHM,0,0,False,"['mention_or_url', 'medium']",0,True,0,True,0,True
+honestly 5 early warning signs of stroke you shouldn't ginore 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+how is stroke diganosed? asking for school project smh,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'medium']",1,True,1,True,1,True
+@user nearly had a heart attack when i saw this spreadsheet http://url,FIGURATIVE,1,0,False,"['near_miss_phrase', 'mention_or_url', 'medium']",2,True,2,True,2,True
+honestly i caught the wifi cough and there is no cure lol !!,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+i'm having a full heart attack ovre this exam 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+the traffic comment section is cancer,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+Honestly i'm having a full depression over group project fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so the stock market is a headache and a half 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+@user this spreadsheet hype is catching like the flu 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",2,True,2,True,2,True
+"honestly the finale is giving me a migrain,e seriously, been to urgent care twice http://url",LITERAL_PHM,0,0,False,"['mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+lol cancer rates are rising in the uk,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+i caught this exam heart attack and there is no cure lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+What's the difference between deperssion and a normal headache?,LITERAL_OTHER,0,0,False,"['question', 'medium']",1,True,1,True,1,True
+cancer costs europe billions every year 😩,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+ugh the alelrgy ward at the #mondays,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+ok so i donated to stroke research today 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+Ok so woke up with a stroke on and 😂,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+ok so woke up with a depression on and off for a month 😂,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+lol 5 wraning signs of allergy 😩,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+ugh can't sleep because of my anxiety 😂,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+reading this exam gave me a migraine 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+My wallet had a headache after this spraedsheet,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+ok so finally seeing a doctor about my headache - like my head is in a vise http://url,LITERAL_PHM,1,0,False,"['mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+my said it's definitely not fever,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+i donated to heart attack tdoay 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"@user the ref is giving me a cough, seriously, been to urgent care twice #mondays",LITERAL_PHM,0,0,False,"['mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+ok so pure stroke of luck with this playlist fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"woke up with a all week, feels like a dark cloud on me",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'long(>12w)']",0,True,0,True,0,True
+the ref took my breath away lkie an asthma attack 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+lol got a bad case of the new update fever 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"Third headache episode on and off for a month, calling my gp #mondays",LITERAL_PHM,0,0,False,['long(>12w)'],0,True,0,True,0,True
+honestly anxiety is so bad since lsat night - lkie a jackhammer in my skull smh,LITERAL_PHM,1,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+Ugh got a stroke during tax season and !!,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+@user anyone else get anxiety after the vaccine? had it since yesterday - like my head is in a vise 😩,LITERAL_PHM,1,0,False,"['question', 'slang_or_emoji', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+i'm having a full fever over this group project !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+Ugh *cough* that last http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'short(<=6w)']",2,True,2,True,2,True
+ok so the anxiety of watching the,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"Update: my test came back negative, phew",LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+honestly my wallet had a flu after that last episode smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"update: this playilst was cancelled for me, asthma this morning",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+the season finale is pure cancer 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+update: the anxiety watching that plot twist live 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"tax season was cancelled for me, heart attack this morning - lkie a truck hit me",LITERAL_PHM,1,0,False,['long(>12w)'],0,True,0,True,0,True
+"lol i used to think anixety was rrae, it isn't #mondays",LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+"This playlist is giving me a anxiety, seriously, been to urgent care twice 😂",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+lol this month is cancer awareness month 😩,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+got a stroke during the ref and smh,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+ugh black firday is me a 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",2,False,2,False,2,False
+lol this month is 😂,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+i caught this playlist cough and 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+ok so woek up with a flu on and off for a month 😩,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+I caught the stokc market ehart attack and there is no cure lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+update: pure stroke of luck,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+How is depression asking for a school project 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+This project fever spreading like the flu http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+@user this spreadsheet is *cough* not that great #mondays,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+ok so is contagious? 🙃,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+researchers found a new teratment for cancer http://url,LITERAL_OTHER,0,0,False,"['mention_or_url', 'medium']",1,True,1,True,1,True
+This spreadsheet is to give me a heart attack !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+Ok so this eaxm was a total fever dream 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"i used to think migriane was rare, it isn't #mondays",LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+Lol nearly had a flu lats and spent a week in hospital 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+"Woke up with a stroke on and off a month, feels like my head is in a vise smh",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+ugh i caught this exam anxiety and there http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+lol can't sleep because,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'short(<=6w)']",0,True,0,True,0,True
+Stuck in bed with flu this morning !!,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+My son was diagnosed with stroke since last night #mondays,LITERAL_PHM,0,0,False,"['third_person', 'medium']",0,True,0,True,0,True
+lol migraine rates are rising in canada,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+update: the esason finale is giving me anxiety lol fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"the season finale is giving me a stroke,",LITERAL_PHM,0,0,False,['medium'],2,False,2,False,2,False
+"i to think asthma was rare, it isn't",LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+update: my landlord has me in a depe depression lmao smh,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+update: the stock market is giving me anxiety lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+what's the difference heart attack and a normal headache? fml,LITERAL_OTHER,0,0,False,"['question', 'slang_or_emoji', 'medium']",1,True,1,True,1,True
+ugh the group chat is giving me anxiety lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+Update: i have a serious allergy to the finale #mondays,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+i swear i get a every,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+I caught my inbox asthma and there is no cure lol 😩,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+I swear i get a every time i open my landlord,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+"@user monday traffic is giving me a allergy, smh",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",2,False,2,False,2,False
+*cough* my landlord *cough* overrated #mondays,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+migraine contagious? #mondays,LITERAL_OTHER,0,0,False,"['question', 'short(<=6w)']",1,True,1,True,1,True
+"ugh anyone else get stroke after the vaccine? had it since monday, it's like i'm on fire #mondays",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'question', 'long(>12w)']",0,True,0,True,0,True
+missed the finale because of migraine,LITERAL_PHM,0,0,False,['short(<=6w)'],0,True,0,True,0,True
+honestly can't sleep because of my heart attack,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+Lol that plot twist fever 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+honestly free depressino screening at the community center saturday,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+the anxiety of watching the live fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+update: my anxiety is so bad this morning 😂,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+"Ok so had to leave work early, flu kicked in, feels like breathing trhough a straw 🙃",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+How is alleryg diagnosed? asking for a project,LITERAL_OTHER,0,0,False,"['question', 'medium']",1,True,1,True,1,True
+honestly monday rtaffic is giivng me anxiety lol fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+this group project is giving http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'short(<=6w)']",2,True,2,True,2,True
+honestly reading this exam gave me a migraine fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+my wallet had a migraine after the stock market,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+lol reading the gropu chat agve me a migraine 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+fever costs the us billions every year,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+5 early warning signs of stroke you shouldn't ignore !!,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+Honestly i caught that last episode #mondays,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+@user finally seeing doctor about my flu smh,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",0,True,0,True,0,True
+Monht is astmha,LITERAL_OTHER,0,0,False,['short(<=6w)'],2,False,1,True,1,True
+update: i i get a stroke every time i open my inbox !!,FIGURATIVE,1,0,False,['long(>12w)'],2,True,2,True,2,True
+Got a bad case of the wifi fever #mondays,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+my wallet had a fever after the stock market,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True
+@user nearly had a heart attack when i saw the group !!,FIGURATIVE,1,0,False,"['near_miss_phrase', 'mention_or_url', 'medium']",2,True,2,True,2,True
+post-this exam depression hitting hard #mondays,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+update: my allergy the finale is acting up again lol #mondays,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+"Honestly my heart attack started right in the of my inbox, meds are not helping 😩",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+Lol 5 early warning signs of headache you shouldn't ignore,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+honestly finally seeing a doctor about my depression 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+@user post-my inbox depression hitting hard !!,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+ok so asthma ward at the hospital is expanding !!,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+@user anyone else get asthma after the vaccine? had it since yesterday http://url,LITERAL_PHM,0,0,False,"['question', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+lol i'm having a 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+ugh i caught the stock market flu and there is no cure lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+ugh the ref = instant migraine,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+Lol my allergy to black friday is acting up again lol 😂,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+migraine costs the us billions every year !!,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+"@user this exam is giving me a asthma, seriously, been to urgent care twice, it's like my head is in a vise http://url",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'mention_or_url', 'long(>12w)']",0,True,0,True,0,True
+"my dad has had headache on and off for a month, worried",LITERAL_PHM,0,0,False,"['third_person', 'medium']",0,True,0,True,0,True
+My landlord giving me anxiety lol,FIGURATIVE,1,0,False,"['slang_or_emoji', 'short(<=6w)']",2,True,2,True,2,True
+lol htis month is,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'short(<=6w)']",1,True,1,True,1,True
+My brother was,LITERAL_PHM,0,0,False,"['third_person', 'short(<=6w)']",0,True,0,True,0,True
+"my stroke statred right in the middle of this spreadshete, meds are not helping, feels like a dark cloud on me 🙃",LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+honestly my sister has had cough 🙃,LITERAL_PHM,0,0,False,"['third_person', 'slang_or_emoji', 'medium']",0,True,0,True,0,True
+"had to leave work early, http://url",LITERAL_PHM,0,0,False,"['mention_or_url', 'short(<=6w)']",0,True,0,True,0,True
+@user got a cough duirng my inbox and had to go home http://url,LITERAL_OTHER,0,1,True,"['mention_or_url', 'long(>12w)']",0,False,0,False,0,False
+Doctor confirmed i have asthma - liek a adrk cloud on me 😩,LITERAL_PHM,1,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+@user this spreadsheet was cancleled for fml,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",2,False,0,True,2,False
+"lol the stock market is giving me a cough, seriously, been urgent care twice",LITERAL_PHM,0,0,False,"['slang_or_emoji', 'long(>12w)']",0,True,0,True,0,True
+ok so i caught the finale fever and is no cure lol fml,FIGURATIVE,1,0,False,"['slang_or_emoji', 'long(>12w)']",2,True,2,True,2,True
+@user my haedache meds aren't working 🙃,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",0,True,0,True,0,True
+my stroke is so bad this morning #mondays,LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+Ugh my sister was diagnosed with cancer all week - like a cloud on me #mondays,LITERAL_PHM,1,0,False,"['simile_or_metaphor', 'third_person', 'long(>12w)']",0,True,0,True,0,True
+ok so my wallet had a flu after my landlord http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'medium']",2,True,2,True,2,True
+honestly that plot twist almost gave me a heart attack,FIGURATIVE,1,0,False,"['near_miss_phrase', 'medium']",2,True,2,True,2,True
+ugh my wallet had a !!,FIGURATIVE,1,0,False,['short(<=6w)'],2,True,2,True,2,True
+honestly i'm writing an essay on,LITERAL_OTHER,0,0,False,['short(<=6w)'],1,True,1,True,1,True
+Ok so i donated to allergy research today http://url,LITERAL_OTHER,0,0,False,"['mention_or_url', 'medium']",1,True,1,True,1,True
+"ok so the new update was cancelled for me, on !!",LITERAL_PHM,0,0,False,['medium'],0,True,0,True,0,True
+Lol my stroke is so bad since last night,LITERAL_PHM,0,0,False,"['slang_or_emoji', 'medium']",0,True,0,True,0,True
+ugh i'm writing an essay on flu for lcass,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+Honestly researchers found a new treatment for allergy 🙃,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'medium']",1,True,1,True,1,True
+My allergy to this exam is acting up again lol 🙃,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+@user anxiety costs rural areas billions every year 😩,LITERAL_OTHER,0,0,False,"['slang_or_emoji', 'mention_or_url', 'medium']",1,True,1,True,1,True
+update: cancer costs the uk billions every year,LITERAL_OTHER,0,0,False,['medium'],1,True,1,True,1,True
+tihs exam has me in a deep lmao,FIGURATIVE,1,0,False,"['slang_or_emoji', 'medium']",2,True,2,True,2,True
+@user i swear i get flu every time i open black firday http://url,FIGURATIVE,1,0,False,"['mention_or_url', 'long(>12w)']",2,True,2,True,2,True
+ugh i swear i get a flu !!,FIGURATIVE,1,0,False,['medium'],2,True,2,True,2,True

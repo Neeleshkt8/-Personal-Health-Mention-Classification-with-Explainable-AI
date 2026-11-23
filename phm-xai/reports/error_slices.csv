@@ -1,0 +1,10 @@
+slice,n,acc_tfidf_logreg,acc_stl_mlp,acc_mtl_mlp
+medium,277,0.953,0.957,0.953
+slang_or_emoji,231,0.974,0.978,0.974
+short(<=6w),90,0.956,0.967,0.967
+long(>12w),83,0.976,0.976,0.976
+mention_or_url,81,0.938,0.951,0.938
+question,31,1.0,1.0,1.0
+simile_or_metaphor,27,1.0,1.0,1.0
+third_person,15,1.0,1.0,1.0
+near_miss_phrase,6,1.0,1.0,1.0
